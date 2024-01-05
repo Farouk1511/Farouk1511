@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Farouk1511
+- 👋 Hi, I’m Farouk
 - 👀 I’m interested in Web and mobile development
-- 🌱 I’m currently learning NextJS and react native
+- 🌱 I’m currently learning NextJS and React native
 - 💞️ I’m looking to collaborate on Mobile or web application
 
 <!---
